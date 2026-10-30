@@ -40,6 +40,7 @@ A curated list of the best macOS apps for productivity, development, design, and
 ## Utilities
 
 - [Rectangle](https://rectangleapp.com) - Free, open-source window management with keyboard shortcuts.
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Restores window layouts and Spaces when you reconnect an external display.
 - [CleanShot X](https://cleanshot.com) - Screenshot and screen recording tool with annotation.
 - [Ice](https://github.com/jordanbaird/Ice) - Open-source menu bar manager to hide and organize icons.
 - [Maccy](https://maccy.app) - Lightweight, open-source clipboard manager.
